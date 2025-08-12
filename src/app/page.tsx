@@ -4,7 +4,7 @@ import { HowItWorks } from '@/components/HowItWorks'
 import { LiveLeaderboard } from '@/components/LiveLeaderboard'
 import { PredictionMarkets } from '@/components/PredictionMarkets'
 import { Features } from '@/components/Features'
-import { CreatorShowcase } from '@/components/CreatorShowcase'
+// import { CreatorShowcase } from '@/components/CreatorShowcase'
 import { CallToAction } from '@/components/CallToAction'
 import { Footer } from '@/components/Footer'
 
@@ -33,7 +33,7 @@ export default function Home() {
         <LiveLeaderboard />
         <PredictionMarkets />
         <Features />
-        <CreatorShowcase />
+        {/* <CreatorShowcase /> */}
         <CallToAction />
         <Footer />
       </div>

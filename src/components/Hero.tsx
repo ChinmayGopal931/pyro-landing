@@ -4,7 +4,6 @@
 import { motion } from 'framer-motion'
 import { Flame } from 'lucide-react'
 import { Button } from '@/components/ui/button'
-import { Badge } from '@/components/ui/badge'
 
 export function Hero() {
   return (
@@ -15,9 +14,7 @@ export function Hero() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8 }}
         >
-          <Badge className="mb-6 bg-red-600 text-white px-4 py-2 text-sm border-0">
-            🔥 Burn-to-Advertise Platform on Solana
-          </Badge>
+
           
           <h1 className="text-5xl md:text-7xl font-black text-white mb-6 leading-none drop-shadow-lg">
             <motion.div
