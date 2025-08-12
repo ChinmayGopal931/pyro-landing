@@ -1,7 +1,6 @@
 'use client'
 
 import { motion } from 'framer-motion'
-import { Flame } from 'lucide-react'
 import { Button } from '@/components/ui/button'
 
 export function CallToAction() {
