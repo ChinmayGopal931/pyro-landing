@@ -30,7 +30,7 @@ export function Navigation() {
             <Button variant="ghost" className="text-white hover:text-red-400">
               For Streamers
             </Button> */}
-            <Button className="bg-red-600 hover:bg-red-700 text-white">
+            <Button className="bg-red-600 hover:bg-red-700 text-white" onClick={() => window.open('https://pyro-monorepo.vercel.app/', '_blank')}>
               Launch App
             </Button>
           </motion.div>

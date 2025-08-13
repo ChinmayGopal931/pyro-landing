@@ -40,7 +40,7 @@ export function Hero() {
           </p>
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center mb-12">
-            <Button size="lg" className="bg-red-600 hover:bg-red-700 text-white px-8 py-4 text-lg">
+            <Button size="lg" className="bg-red-600 hover:bg-red-700 text-white px-8 py-4 text-lg" onClick={() => window.open('https://pyro-monorepo.vercel.app/', '_blank')}>
               <Flame className="mr-2 h-5 w-5" />
               Start Burning
             </Button>
