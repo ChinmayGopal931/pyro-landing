@@ -8,8 +8,8 @@ export function HowItWorks() {
   const steps = [
     {
       icon: TrendingUp,
-      title: "Buy & Burn",
-      description: "Purchase tokens from Pump.fun and burn them through Pyro to enter the competition",
+      title: "Burn to Enter",
+      description: "Buy creator coins on Pump.fun. Burn through Pyro to join the competition.",
       step: "01"
     },
     {
@@ -21,7 +21,7 @@ export function HowItWorks() {
     {
       icon: Crown,
       title: "Get Featured",
-      description: "Top burners get their token advertised in livestream overlays to thousands of viewers",
+      description: "Top coins are displayed in-stream, reaching thousands of live viewers.",
       step: "03"
     }
   ]
@@ -40,8 +40,8 @@ export function HowItWorks() {
             How Pyro Works
           </h2>
           <p className="text-xl text-gray-300 max-w-3xl mx-auto drop-shadow-md">
-            A system where token burns drive stream advertising. 
-            The more you burn, the more visibility you get.
+            Pyro turns token burns into visibility. 
+            Burn more, rank higher, secure banners on live streams.
           </p>
         </motion.div>
 

@@ -14,11 +14,10 @@ export function CallToAction() {
           viewport={{ once: true }}
         >
           <h2 className="text-4xl md:text-5xl font-bold text-white mb-6 drop-shadow-lg">
-            Ready to Start?
+            Ready to Compete?
           </h2>
           <p className="text-xl text-gray-300 mb-8 max-w-2xl mx-auto drop-shadow-md">
-            Get your token the exposure it deserves. 
-            Every burn counts, every rank matters.
+            Exposure goes to the top burners. Bring your community, climb the board, and rule the stream.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button size="lg" className="bg-red-600 hover:bg-red-700 text-white px-8 py-4 text-lg" onClick={() => window.open('https://pyro-monorepo.vercel.app/', '_blank')}>

@@ -35,8 +35,7 @@ export function Hero() {
           </h1>
           
           <p className="text-xl md:text-2xl text-gray-300 max-w-4xl mx-auto mb-8 leading-relaxed drop-shadow-md">
-            Turn your token burns into premium stream advertising. The more you burn, 
-            the higher you rank, the more exposure you get.
+            Turn burns into live advertising. Outburn rivals to win premium stream placement and put your coin in front of thousands.
           </p>
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center mb-12">

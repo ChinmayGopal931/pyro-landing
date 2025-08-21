@@ -9,33 +9,33 @@ export function Features() {
   const features = [
     {
       icon: Target,
-      title: "Prediction Markets",
-      description: "Bet on token prices at stream end. More engagement, more hype, more burns."
+      title: "Opinion Markets",
+      description: "Bet on price, views, or stream outcomes."
     },
     {
       icon: Zap,
       title: "Real-time Leaderboards",
-      description: "Watch rankings update live as communities battle for the top spots."
+      description: "See burns update live."
     },
     {
       icon: Users,
       title: "Community Warfare",
-      description: "Unite your holders to outburn rivals and dominate the stream overlay."
+      description: "Unite holders to outburn rivals."
     },
     {
       icon: TrendingUp,
       title: "Price Impact",
-      description: "Burns reduce supply while marketing increases demand. Double pump effect."
+      description: "Burns cut supply, competition pumps demand."
     },
     {
       icon: Crown,
       title: "Premium Placement",
-      description: "Top burners get the biggest, most visible banner spots during streams."
+      description: "Winners secure prime banner space."
     },
     {
       icon: Flame,
       title: "Burn Verification",
-      description: "Every burn is verified on-chain. No faking, no cheating, pure competition."
+      description: "Every burn checked on Solana."
     }
   ]
 
@@ -53,7 +53,7 @@ export function Features() {
             Built for Memecoin Communities
           </h2>
           <p className="text-xl text-gray-300 max-w-3xl mx-auto drop-shadow-md">
-            Every feature designed to maximize your token's exposure and community engagement
+            Every feature maximizes exposure and engagement
           </p>
         </motion.div>
 

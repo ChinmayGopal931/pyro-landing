@@ -30,7 +30,7 @@ export function LiveLeaderboard() {
             Live Competition
           </h2>
           <p className="text-xl text-gray-300 max-w-3xl mx-auto drop-shadow-md">
-            Watch real-time battles as token communities compete for premium stream placement
+            See rankings shift in real time as communities battle for stream placement.
           </p>
         </motion.div>
 
