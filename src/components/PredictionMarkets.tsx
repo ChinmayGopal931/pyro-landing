@@ -52,11 +52,10 @@ export function PredictionMarkets() {
           viewport={{ once: true }}
         >
           <h2 className="text-4xl md:text-5xl font-bold text-white mb-6 drop-shadow-lg">
-            Prediction Markets
+            Opinion Markets
           </h2>
           <p className="text-xl text-gray-300 max-w-3xl mx-auto drop-shadow-md">
-            Double down on your conviction. Predict token prices and multiply your gains 
-            while fueling the burn competition.
+            Back your conviction. Bet on token prices, stream outcomes, or meme moments — and fuel more burns.
           </p>
         </motion.div>
 
@@ -137,7 +136,7 @@ export function PredictionMarkets() {
           <Card className="bg-white/10 backdrop-blur-xl border border-white/20 shadow-2xl max-w-2xl mx-auto">
             <CardContent className="p-8">
               <h3 className="text-2xl font-bold text-white mb-4">
-                More Predictions = More Burns
+                More bets = more burns = more exposure.
               </h3>
               <p className="text-gray-300 mb-6">
                 When communities bet on their token&apos;s performance, they&apos;re more likely to burn 
